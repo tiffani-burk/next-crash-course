@@ -1,4 +1,5 @@
 import Head from 'next/head'
+
 import ArticleList from '../components/ArticleList'
 
 
@@ -10,7 +11,6 @@ export default function Home({ articles }) {
        <Head>
         <title>NextJs-Crash-Course</title>
       </Head>
-    <h1>Article List</h1>
       <ArticleList articles={ articles } />
 
     </div>
