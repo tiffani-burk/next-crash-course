@@ -6,7 +6,7 @@ The user can view articles, which are dynamically shown based on their id.
 
 The API was externally sourced.
 
-##Video
+## Video
 https://watch.screencastify.com/v/zhMY1GscJzaF3tALstMZ
 
 ## Tech Stack
