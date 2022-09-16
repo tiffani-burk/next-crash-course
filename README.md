@@ -6,9 +6,6 @@ The user can view articles, which are dynamically shown based on their id.
 
 The API was externally sourced.
 
-## Video
-https://watch.screencastify.com/v/zhMY1GscJzaF3tALstMZ
-
 ## Tech Stack
 <ui>
 <li>Next.js</li>
@@ -16,5 +13,6 @@ https://watch.screencastify.com/v/zhMY1GscJzaF3tALstMZ
 <li>CSS</li>
 </ul>
 
-
+## Video
+https://watch.screencastify.com/v/zhMY1GscJzaF3tALstMZ
 
